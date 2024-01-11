@@ -34,5 +34,6 @@ Estas conclusiones no solo proporcionan una visión detallada del desastre del T
 
 <iframe src="https://prezi.com/p/embed/KCLtDGFZW28gSv8vUi0g/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
 
+
 - Agradecimientos
 A Andrés Mateo Piñol, Demetrio Esteban Alférez, Rocío Garcia Tierra y Antonio Zaraus Moreno por su paciencia, aporte de datos y técnicas de análisis, técnicas de Storytelling y el acompañamiento continuo en la formación.
