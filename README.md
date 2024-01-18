@@ -32,7 +32,7 @@ Estas conclusiones no solo proporcionan una visión detallada del desastre del T
 
 ### Puede ver la presentación del caso a continuación:
 
-<iframe src="https://prezi.com/p/embed/KCLtDGFZW28gSv8vUi0g/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
+[![Presentación](https://drive.google.com/uc?id=1GOliQIZX2OHt-ZCEGpDnmXnvGpCk1U4O)](https://prezi.com/p/embed/KCLtDGFZW28gSv8vUi0g/)
 
 
 - Agradecimientos
