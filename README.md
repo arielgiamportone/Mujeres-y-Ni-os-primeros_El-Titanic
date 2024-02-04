@@ -15,6 +15,8 @@ This approach not only contributes to a deeper understanding of historical event
 - Conclusiones
 El análisis de datos exhaustivo del hundimiento del Titanic revela hallazgos significativos que no solo iluminan la tragedia histórica, sino que también ofrecen valiosas perspectivas para la toma de decisiones en el ámbito de la Seguridad Náutica. Desde la mirada de un experto en análisis de datos y marketing, las siguientes conclusiones destacan elementos clave:
 
+[![Informe_Mujeres_y_Niños_Primero](https://drive.google.com/file/d/1vxTXWjZHxJeEYgLnfVFIQLX1efDrrlFc/view?usp=sharing)](https://app.powerbi.com/view?r=eyJrIjoiMDk4ODc3YmMtNzI1Mi00OGNkLWFlZTQtMmFmZDUzOTQyNmM4IiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9)
+
 Correlación Sexo-Supervivencia:
 
 El **74% **de los sobrevivientes en nuestro conjunto de datos *son mujeres*, consolidando la noción de *"Mujeres y Niños Primero."* Esta conexión revela la importancia crítica del sexo como factor determinante en las decisiones de supervivencia.
